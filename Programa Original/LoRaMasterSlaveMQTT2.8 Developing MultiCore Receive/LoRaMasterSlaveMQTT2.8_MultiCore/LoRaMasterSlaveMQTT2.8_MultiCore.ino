@@ -69,8 +69,8 @@ const String GETDATA = "g=";
 const String SETDATA = "s=";
 
 // Limear de tempo para estabelecer erro de comunicação
-//#define COMMAXTIME (3*60) * 1000
-#define COMMAXTIME 15000
+#define COMMAXTIME (3*60) * 1000
+//#define COMMAXTIME 15000
 
 //SE Módulo com  ESP32
 //#define chipSelect 27
