@@ -1,0 +1,5 @@
+Para usar no ESP32
+alterar no arquivo Ethernet2, w5500_cspin = 05
+
+ EthernetClass() { _dhcp = NULL; w5500_cspin = 05; }
+  void init(uint8_t _cspin = 05) { w5500_cspin = _cspin; }
