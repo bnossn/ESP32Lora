@@ -1,0 +1,9 @@
+{
+  "DeviceOrigin": "MAC",
+  "Values": {
+      "DO": [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],
+      "DI": [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],
+      "AO": [false,false,false,false,false,false,false,false,false,false],
+      "AI": [false,false,false,false,false,false,false,false,false,false]
+  }
+}
